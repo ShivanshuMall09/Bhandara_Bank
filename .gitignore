@@ -1,0 +1,19 @@
+# Ignore all files in folder temp/
+BHANDARA_INPUT_09-0602025/
+input_files/
+Archived/
+dist/
+build/
+Grammar/
+DNSCache/
+
+# Ignore all log files
+*.log
+
+# Ignore Python byte‐compiled files
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
